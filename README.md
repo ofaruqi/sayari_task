@@ -5,6 +5,7 @@ Data and corresponding plot are genereated using the Secreatary of State of Nort
 
 Files containing the data, plot and the code used can be found in the following locations:
 
+'''
 .
 +-- _config.yml
 +-- _drafts
@@ -23,3 +24,4 @@ Files containing the data, plot and the code used can be found in the following 
 |   +-- members.yml
 +-- _site
 +-- index.html
+'''
