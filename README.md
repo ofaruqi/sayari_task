@@ -4,24 +4,6 @@ Sayari programming task involving scraping a website and plotting a network.
 Data and corresponding plot are genereated using the Secreatary of State of North Dakota business search web app. Active companies that start with the letter 'X' were used as the input for the search. A total of 193 businesses and their relevant information was collected and used for generating the plot.
 
 Files containing the data, plot and the code used can be found in the following locations:
-
-'''
-.
-+-- _config.yml
-+-- _drafts
-|   +-- begin-with-the-crazy-ideas.textile
-|   +-- on-simplicity-in-technology.markdown
-+-- _includes
-|   +-- footer.html
-|   +-- header.html
-+-- _layouts
-|   +-- default.html
-|   +-- post.html
-+-- _posts
-|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
-+-- _data
-|   +-- members.yml
-+-- _site
-+-- index.html
-'''
+..* Data: ./data.tsv
+..* Plot: ./plot.png
+..* Scraping Code: ./da
