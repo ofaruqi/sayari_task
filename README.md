@@ -7,4 +7,4 @@ Files containing the data, plot and the code used can be found in the following 
 - ***Data:*** ./data.tsv
 - ***Plot:*** ./plot.png
 - ***Scraping Code:*** ./myScrapyProject/spiders/task.py
-- ***Plotting Code:*** ./myScrapyProject
+- ***Plotting Code:*** ./myScrapyProject/plot.py
